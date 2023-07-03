@@ -1,7 +1,7 @@
 # Eugene Makhon
 
 ### Contacts
-* Phone number: +375(25)9232779
+* Phone number: +375259232779
 * Email: makhon.joker@gmail.com
 * Telegram: @geniusatworkk
 * [GitHub Profile](https://github.com/gorgeousmakhonas)
