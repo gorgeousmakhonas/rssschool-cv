@@ -1,5 +1,5 @@
 # rsschool-cv
 
-https://gorgeousmakhonas.github.io/rsschool-cv/cv
+ https://gorgeousmakhonas.github.io/rsschool-cv/cv
 
 
