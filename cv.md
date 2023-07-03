@@ -28,4 +28,4 @@ University: Vitebsk State Technological University, Economics and Management.
 ### Courses: 
 Rs School JS/FE Pre-School 2023Q2 (in progress).
 ### Language:
-English B1
+English B1 (intermediate)
