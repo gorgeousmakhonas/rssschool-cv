@@ -13,6 +13,7 @@ I have nothing to do with programming, but this area has been interesting to me 
 * CSS - 0%;
 * JS - 0%;
 * Git, GitHub - 5%;
+  
 I have no experience and skill in working with these programs, but I am confident in my future success
 
 ### Code Example:
@@ -23,7 +24,7 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ### Education:
-University: Vitebsk State Technological University, Economics and Management (mechanical engineering).
+University: Vitebsk State Technological University, Economics and Management.
 ### Courses: 
 Rs School JS/FE Pre-School 2023Q2 (in progress).
 ### Language:
