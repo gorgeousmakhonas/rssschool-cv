@@ -24,7 +24,7 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ### Education:
-University: Vitebsk State Technological University, Economics and Management.
+University: Vitebsk State Technological University, Belarus, Economics and Management.
 ### Courses: 
 Rs School JS/FE Pre-School 2023Q2 (in progress).
 ### Language:
